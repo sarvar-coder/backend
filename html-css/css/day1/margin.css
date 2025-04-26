@@ -1,0 +1,16 @@
+.box { 
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px ;
+height: 250px;
+}
+
+#box1 { 
+    background-color: hsl(298, 100%, 42%);
+    margin-top: 50px;
+    margin-left:260px;
+}
+
+#box2 { 
+    background-color: hsl(268, 100%, 31%);
+}
